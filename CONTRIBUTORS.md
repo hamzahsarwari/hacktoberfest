@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Hammzah Sarwari] (www.hamzahsarwari.weebly.com)
+-Place: Sacramento, CA USA
+-Bio: CS student. Photographer. Artist.
+- Github: https://github.com/hamzahsarwari
